@@ -161,9 +161,9 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="#f7f2dd"
-            android:text="Liri Lichow     206540759"
+            android:text="Liri Lichow  206540759"
             android:textColor="@color/black"
-            android:textSize="36sp" />
+            android:textSize="24sp" />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
 </RelativeLayout>
