@@ -6,14 +6,11 @@ import com.google.android.material.button.MaterialButton;
 import com.google.android.material.textview.MaterialTextView;
 
 import android.os.Bundle;
-import android.view.View;
 import android.widget.EditText;
-
-import com.example.salarycalculator.Calculator;
 
 import java.text.DecimalFormat;
 
-public class MainActivity extends AppCompatActivity {
+public class Activity_Main extends AppCompatActivity {
 
     private MaterialButton main_BTN_net;
     private MaterialButton main_BTN_education_fund;
