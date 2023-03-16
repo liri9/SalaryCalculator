@@ -159,7 +159,6 @@
                     android:layout_gravity="center"
                     android:layout_margin="10dp"
                     android:layout_toEndOf="@id/main_BTN_health_tax"
-                    android:cornerRadius="100dip"
                     android:text="pension"
                     app:backgroundTint="@color/teal_700"
                     app:cornerRadius="50dp" />
